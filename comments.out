@@ -1,0 +1,7 @@
+a            line 8 cols 1-1 is T_Identifier 
+.            line 8 cols 2-2 is T_Dot 
+c            line 8 cols 14-14 is T_FieldSelection 
+
+*** Error.
+*** Input ends with unterminated comment
+
