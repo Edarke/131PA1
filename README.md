@@ -3,7 +3,7 @@ Navigate to the directory containing your glc program, and run the following:
 
 ```
 git clone git@github.com:Edarke/131PA1.git  
-tests/run.sh  
+cd tests && ./run.sh  
 ```
 
 ## How to add tests  
