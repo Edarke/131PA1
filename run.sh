@@ -6,14 +6,16 @@ NC='\033[0m' # No Color
 
 for f in *.glsl; do
     ../glc < $f &> .temp
-    printf "Comparing output with %s: " ${f%%.*}.out
-   
-   
+    printf "Comparing output with %s: " ${f%%.*}.out 
+ 
     
     if  diff .temp ${f%%.*}.out ; then
         printf "${GREEN}PASS${NC}\n"
     else
-        printf "${RED}FAIL${NC}\n"
-fi
-    
+        printf "${RED}FAIL${NC}\n"    
+    fi
+   
 done
+
+
+
