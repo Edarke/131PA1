@@ -4,6 +4,9 @@ Still a comment
 
 */
 
+//
+//
+//
 
 a./*Comment*/c
 
