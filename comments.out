@@ -1,6 +1,9 @@
-a            line 11 cols 1-1 is T_Identifier 
-.            line 11 cols 2-2 is T_Dot 
-c            line 11 cols 14-14 is T_FieldSelection 
+id           line 7 cols 108-109 is T_Identifier 
+a            line 15 cols 5-5 is T_Identifier 
+.            line 15 cols 6-6 is T_Dot 
+b            line 15 cols 19-19 is T_FieldSelection 
+.            line 15 cols 43-43 is T_Dot 
+c            line 15 cols 65-65 is T_FieldSelection 
 
 *** Error.
 *** Input ends with unterminated comment

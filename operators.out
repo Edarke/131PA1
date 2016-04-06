@@ -23,3 +23,5 @@
 -=           line 2 cols 10-11 is T_SubAssign 
 ?            line 2 cols 13-13 is T_Question 
 :            line 2 cols 15-15 is T_Colon 
+++           line 2 cols 17-18 is T_Inc 
+--           line 2 cols 20-21 is T_Dec 
