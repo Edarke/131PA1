@@ -2,7 +2,7 @@
 Navigate to the directory containing your glc program, and run the following:  
 
 ```
-git clone git@github.com:Edarke/131PA1.git  
+git clone https://github.com/Edarke/131PA1.git    
 cd 131PA1 && ./run.sh  
 ```
 
